@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently collaborating on [C++ Warzone Game Project](https://github.com/Bungus-Collector/COMP-345-Group-Assignment)
 
-- 🌱 I’m currently learning **Machine Learning, C++**
+- 🌱 I’m currently learning **Machine Learning, C++, and Game Programming**
 
 - 📫 How to reach me **gordenqh@gmail.com**
 
