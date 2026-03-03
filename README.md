@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forgoatten&label=Profile%20views&color=0e75b6&style=flat" alt="forgoatten" /> </p>
 
-- 🔭 I’m currently collaborating on [C++ Warzone Game Project](https://github.com/Bungus-Collector/COMP-345-Group-Assignment)
+- 🔭 I’m currently collaborating on [Sign-Language-Classifier](https://github.com/RealBJr/sign-language-classifier)
 
-- 🌱 I’m currently learning **Machine Learning, C++, and Game Programming**
+- 🌱 I’m currently learning **Artificial Intelligence, Data Analytics, and Computer Networks**
 
 - 📫 How to reach me **gordenqh@gmail.com**
 
