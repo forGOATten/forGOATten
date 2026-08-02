@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forgoatten&label=Profile%20views&color=0e75b6&style=flat" alt="forgoatten" /> </p>
 
-- 🔭 I’m currently collaborating on [Sign-Language-Classifier](https://github.com/RealBJr/sign-language-classifier)
+- 🔭 I’m currently collaborating on [Valorant-Stats](https://github.com/forGOATten/Valorant-Stats)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Data Analytics, and Computer Networks**
 
